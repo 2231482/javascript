@@ -1,4 +1,11 @@
 //condition statesments in javascript.
+// let a=10;
+// let b="10";
+// console.log(a=b);//10
+// console.log(a==b);//true
+// console.log(a===b);//? 
+
+
 
 //if -else statement
 
@@ -45,3 +52,10 @@
 //         break;
 // }
 
+// increment operator
+
+
+let x = 3;
+const y = x++;
+
+console.log(`x:${x}, y:${y}`);
